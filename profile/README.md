@@ -18,7 +18,7 @@ The team is composed of :
 
 This projects aims at detecting data leakages in machine learning projects, by running a static analysis of the code through a VS Code extension.
 
-There are 3 kind of leakages that our extension is able to detect:
+There are 3 kinds of leakages that our extension is able to detect:
 
 - ### Preprocessing Leakage:
   When training data and test data are preprocessed (transformed) together, test data sometimes influences the transformations of the training data
